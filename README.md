@@ -13,8 +13,6 @@
 
 # About MyTeam
 
-<img align='right' src="" width="350">
-
 我是**零际安全团队 · CKCsec安全研究院**的负责人，团队英文名：**zerosec**
 
 - 💞️ 团队公众号“**零际安全团队 · CKCsec安全研究院**”，欢迎各位师傅进行合作
@@ -23,8 +21,8 @@
 
 💬 以下是**团队公众号**以及**个人公众号**
 
-<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:32%;display:inline-block"> 
-<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend2.png" style="width:300px;display:inline-block">
+<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:80%;display:inline-block"> 
+<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend2.png" style="width:80%;display:inline-block">
 
 
 # My Future
