@@ -21,8 +21,8 @@
 
 💬 以下是**团队公众号**以及**个人公众号**
 
-<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:80%;display:inline-block"> 
 <img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend2.png" style="width:80%;display:inline-block">
+<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:80%;display:inline-block"> 
 
 
 # My Future
