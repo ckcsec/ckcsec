@@ -4,7 +4,7 @@
 
 - 👋 Hi, My ID is [ckcsec](https://twitter.com/ckcsec), 你可以叫我ckcsec
 - 👀 I'm good at 渗透测试、工具开发和情报分析
-- 🌱 I'm currently learning Web3、云安全、内网渗透
+- 🌱 I'm currently learning Web3
 - 📫 日常活跃于各大平台, 推特ID [@ckcsec](https://twitter.com/ckcsec)
 - 👋 My Blog: [http://wiki.ckcsec.cn/](http://wiki.ckcsec.cn/)
 - 💞️ 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
@@ -13,15 +13,14 @@
 
 # About MyTeam
 
-我是**零际安全团队 · CKCsec安全研究院**的负责人，团队英文名：**zerosec**
+我是**零际安全团队 · CKCsec安全研究院**的负责人
 
 - 💞️ 团队公众号“**零际安全团队 · CKCsec安全研究院**”，欢迎各位师傅进行合作
 - 👋 MyTeam E-Mail: admin@ckcsec.com
 - 📫 我的微信：Y2tjc2Vj=, 如有需要可以联系我
 
-💬 以下是**团队公众号**以及**个人公众号**
+💬 以下是**个人公众号**
 
-<img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend2.png" style="width:80%;display:inline-block">
 <img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:80%;display:inline-block"> 
 
 
