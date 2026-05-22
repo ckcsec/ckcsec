@@ -24,17 +24,6 @@
 <img src="https://ckcsec.oss-cn-hangzhou.aliyuncs.com/img/friend.png"  style="width:80%;display:inline-block"> 
 
 
-# My Future
-
-<table>
-  <tr>
-    <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/ckcsec/count.svg" alt="" /></td>
-    <td>位访客，感谢您的关注和支持~😍</td>
-  </tr>
-</table>
-
-
 - 💞会尝试上传我开发的一些安全工具和其它开源项目
 - 🌱 团队承接各类安全项目，安全培训，渗透测试，红队检测，欢迎与我联系～
 - 👋 分享优质渗透测试文章，欢迎师傅们一起交流～
