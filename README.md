@@ -6,7 +6,7 @@
 - 👀 I'm good at 渗透测试、工具开发和情报分析
 - 🌱 I'm currently learning Web3
 - 📫 日常活跃于各大平台, 推特ID [@ckcsec](https://twitter.com/ckcsec)
-- 👋 My Blog: [http://wiki.ckcsec.cn/](http://wiki.ckcsec.cn/)
+- 👋 My Blog: [http://wiki.ckcsec.com/](http://wiki.ckcsec.cn/)
 - 💞️ 感谢Github开源社区
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
